@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: bff-admin
+
+server:
+  port: ${SERVER_PORT}
+
